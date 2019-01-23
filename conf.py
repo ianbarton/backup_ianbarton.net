@@ -163,23 +163,23 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 # }
 
 
-NAVIGATION_LINKS = {
-    DEFAULT_LANG: (
-        ("/index.html", "Home"),
-        ("/pages/about", "About"),
-        ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    (
-        (
-            ('https://apple.com/', 'Apple'),
-            ('https://orange.com/', 'Orange'),
-        ),
-        'Fruits'
-    )
+# NAVIGATION_LINKS = {
+#     DEFAULT_LANG: (
+#         ("/index.html", "Home"),
+#         ("/pages/about", "About"),
+#         ("/archive.html", "Archives"),
+#         ("/categories/index.html", "Tags"),
+#         ("/rss.xml", "RSS feed"),
+#     (
+#         (
+#             ('https://apple.com/', 'Apple'),
+#             ('https://orange.com/', 'Orange'),
+#         ),
+#         'Fruits'
+#     )
 
-    ),
-}
+#     ),
+# }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
