@@ -1404,6 +1404,27 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': True,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar':
+
+       """ <div class="sidebar-module sidebar-module-inset">
+       <a href="https://www.google.com/cse/">Search</a>
+  <h4>About</h4>
+  <p>This is the Bootstrap Blog theme by @mdo, adapted for Nikola by @Kwpolska.
+  And this sidebar is completely customizable — you can put anything you want
+  here!</p>
+</div>
+<div class="sidebar-module">
+  <h4>Links</h4>
+  <ol class="list-unstyled">
+    <li><a href="/categories/index.html">Tags</a></li>
+    <li><a href="/archive.html">Archive</a></li>
+    <li><a href="http://getbootstrap.com/examples/blog/">Bootstrap Blog Theme</a></li>
+    <li><a href="https://getnikola.com/">Nikola</a></li>
+  </ol>
+</div>
+
+"""
+
+
     }
 }
