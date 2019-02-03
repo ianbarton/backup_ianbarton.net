@@ -5,6 +5,7 @@
 .. tags: whateverworks
 .. category:
 .. link:
+.. status: draft
 .. description
 .. type: text
 #+END_COMMENT
@@ -34,7 +35,7 @@ making and receiving phone calls.
 I listen to podcasts almost exclusively when cycling and not music and sound
 quality is good. I tried listening to some music tracks to evaluate their
 performance. Whilst they can't compete with my Sony over ear noise cancelling
-XXXX, the sound was perfectly acceptable. Although I wouldn't usually use these
+WH1000MX2, the sound was perfectly acceptable. Although I wouldn't usually use these
 ear phones for watching videos, I tried them watching Netflix and YouTube and
 lip sync was OK.
 
@@ -56,7 +57,9 @@ answer incoming phone calls. The bud on the opposite side has the micro usb
 recharging socket, the power on/off button and volume controls.The volume
 controls are small and difficult to operate. This isn't a problem for me as I
 normally set the volume on my phone before setting off and don't usually need
-to alter it.
+to alter it. The controls will also allow to make and receive phone calls and
+check the battery status. Apart from answering phone calls, the other functions
+are difficult to control on small buttons hidden behind your ears.
 
 Battery life: claimed to be 6hrs (not tested by me). About an hour and a half
 to recharge, but 15 mins provides quite a boost. Recharging is via a micro usb
